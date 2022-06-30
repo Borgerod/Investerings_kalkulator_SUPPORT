@@ -1,0 +1,2 @@
+# Investerings_kalkulator_SUPPORT
+Supportpage for Investeringskalkulator 
